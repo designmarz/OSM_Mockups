@@ -4986,7 +4986,8 @@ nav {
     nav a.button-collapse i {
       font-size: 2.7rem;
       height: 56px;
-      line-height: 56px; }
+      line-height: 56px; 
+      margin-left: -20px;}
   nav .brand-logo {
     position: absolute;
     color: #fff;
