@@ -227,13 +227,7 @@ xtype
     background-color: rgba(234, 233, 233, 0.36);
 }
 
-.partners-section {
-  background-image: url(../img/grid.jpg); 
-  background-size: cover;
-  min-height: 300px;
-  padding: 0;
 
-}
 
 .logo-center {
     width: 100%;
@@ -314,7 +308,7 @@ width: 100%;
   background:rgba(34, 34, 34, 0.6); 
   width:100%; 
   height:300px; 
-  padding:20px; 
+  padding:20px 0 20px 0; 
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px; 
@@ -332,5 +326,17 @@ width: 100%;
 }
 
 .bx-window {
-  width: 100%;
+  width: 100% !important;
+}
+
+
+.bx-wrapper {
+  width: 100% !important;
+}
+
+.partners-section {
+  background-image: url(../img/grid.jpg); 
+  background-size: cover;
+  min-height: 300px;
+  padding: 0 !important;
 }

@@ -43,6 +43,6 @@ $(document).ready(function(){
             $('#slider').bxSlider({
             ticker: true,
             tickerSpeed: 5000,
-            tickerHover: true
+            tickerHover: false
         });
 });
