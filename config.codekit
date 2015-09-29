@@ -696,6 +696,94 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/Material\/img\/bah.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3693,
+		"inputAbbreviatedPath": "\/Material\/img\/bah.png",
+		"outputAbbreviatedPath": "\/Material\/img\/bah.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Material\/img\/clients\/logo1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2519,
+		"inputAbbreviatedPath": "\/Material\/img\/clients\/logo1.png",
+		"outputAbbreviatedPath": "\/Material\/img\/clients\/logo1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Material\/img\/clients\/logo2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1969,
+		"inputAbbreviatedPath": "\/Material\/img\/clients\/logo2.png",
+		"outputAbbreviatedPath": "\/Material\/img\/clients\/logo2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Material\/img\/clients\/logo3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2330,
+		"inputAbbreviatedPath": "\/Material\/img\/clients\/logo3.png",
+		"outputAbbreviatedPath": "\/Material\/img\/clients\/logo3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Material\/img\/clients\/logo4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1554,
+		"inputAbbreviatedPath": "\/Material\/img\/clients\/logo4.png",
+		"outputAbbreviatedPath": "\/Material\/img\/clients\/logo4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Material\/img\/clients\/logo5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2011,
+		"inputAbbreviatedPath": "\/Material\/img\/clients\/logo5.png",
+		"outputAbbreviatedPath": "\/Material\/img\/clients\/logo5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Material\/img\/clients\/logo6.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2330,
+		"inputAbbreviatedPath": "\/Material\/img\/clients\/logo6.png",
+		"outputAbbreviatedPath": "\/Material\/img\/clients\/logo6.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Material\/img\/clients\/logo7.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2519,
+		"inputAbbreviatedPath": "\/Material\/img\/clients\/logo7.png",
+		"outputAbbreviatedPath": "\/Material\/img\/clients\/logo7.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/Material\/img\/grid.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1063,7 +1151,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 26858,
+		"initialSize": 128709,
 		"inputAbbreviatedPath": "\/Material\/img\/OSM-Header-Logo.png",
 		"outputAbbreviatedPath": "\/Material\/img\/OSM-Header-Logo.png",
 		"outputPathIsOutsideProject": 0,
