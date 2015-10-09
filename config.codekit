@@ -949,17 +949,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Material\/img\/logo\/cdbg.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 894134,
-		"inputAbbreviatedPath": "\/Material\/img\/logo\/cdbg.jpg",
-		"outputAbbreviatedPath": "\/Material\/img\/logo\/cdbg.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/Material\/img\/logo\/dnn.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
