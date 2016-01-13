@@ -1,1 +1,1 @@
-$(document).ready(function(){$("#slider").bxSlider({ticker:!0,tickerSpeed:5e3,tickerHover:!1})});
+$(document).ready(function(){function e(e,o){var n=$("#"+e)[0];console.log(n),console.log(o),n.innerHTML=o}$("#slider").bxSlider({ticker:!0,tickerSpeed:9e3,tickerHover:!1});var o=$("#nav_f"),n="logo-container";if(o.width()<360){var r="OSM";e(n,r)}});
