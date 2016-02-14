@@ -4,6 +4,9 @@ $(document).ready(function(){
 	    ticker: true,
 	    tickerSpeed: 9000,
 	    tickerHover: false,
+	    pager: false,
+	    slideWidth: 170,
+  		slideMargin: 10,
     });
 
 	var $navi = $('#nav_f');
@@ -12,8 +15,8 @@ $(document).ready(function(){
 	function update_innerHTML (arg,copy) {
 
 		var updated = $('#'+arg)[0];
-		console.log(updated);
-		console.log(copy);
+		// console.log(updated);
+		// console.log(copy);
 		updated.innerHTML = copy;	
 	}
 	

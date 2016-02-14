@@ -158,5 +158,10 @@
 		$oldWord.removeClass('is-visible').addClass('is-hidden');
 		$newWord.removeClass('is-hidden').addClass('is-visible');
 	}
+
+	$('#nav-mobile').children().click(function(){
+	$('#sidenav-overlay').click();
+	});
+	
   }); // end of document ready
 })(jQuery); // end of jQuery name space

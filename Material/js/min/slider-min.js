@@ -1,1 +1,1 @@
-$(document).ready(function(){function e(e,o){var n=$("#"+e)[0];console.log(n),console.log(o),n.innerHTML=o}$("#slider").bxSlider({ticker:!0,tickerSpeed:9e3,tickerHover:!1});var o=$("#nav_f"),n="logo-container";if(o.width()<360){var r="OSM";e(n,r)}});
+$(document).ready(function(){function e(e,i){var r=$("#"+e)[0];r.innerHTML=i}$("#slider").bxSlider({ticker:!0,tickerSpeed:9e3,tickerHover:!1,pager:!1,slideWidth:170,slideMargin:10});var i=$("#nav_f"),r="logo-container";if(i.width()<360){var n="OSM";e(r,n)}});
